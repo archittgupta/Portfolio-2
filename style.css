@@ -282,12 +282,11 @@ section {
 .about-details-container {
   display: flex;
 }
-
+.profile-pic{
+   border-radius: 2rem;
+}
 .about-pic {
   border-radius: 2rem;
-}
-.profile-pic{
-    border-radius: 2rem;
 }
 
 .arrow {
